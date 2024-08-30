@@ -1,0 +1,176 @@
+.nav-lista {
+
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(0, 0, 0);
+    width: 90%;
+    margin: auto;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
+}
+
+.nav-lista li a {
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.833);
+    padding: 20px;
+    display: flex;
+
+}
+
+.nav-lista li {
+
+    display: inline-block;
+    text-align: center;
+
+}
+
+#tit {
+
+    height: auto;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 110, 255, 0.777);
+
+}
+
+#subt {
+
+    width: 90%;
+    height: auto;
+    display: flex;
+    margin: auto;
+    text-decoration: underline;
+    text-align: center;
+    border-radius: 5px;
+    justify-content: space-around;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 110, 255, 0.678);
+
+}
+
+#Contenedor-1 {
+
+    width: 90%;
+    height: auto;
+    display: flex;
+    margin: auto;
+    padding: auto;
+    justify-content: center;
+
+}
+
+#Contenedor-2 {
+
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.cont-1 {
+
+    width: 100%;
+    margin: 15px;
+
+}
+
+.Espumantes-1 {
+
+    width: 100%;
+    height: auto;
+    display: flex;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
+}
+
+.foot-1 {
+
+    width: 100px;
+    height: 130px;
+    margin-bottom: 5px;
+
+}
+
+.texp {
+
+    width: 100%;
+
+}
+
+#box3 {
+
+    width: 70%;
+    height: 180px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.759);
+
+}
+
+#ubicacion {
+
+    width: 40%;
+    margin: 10px;
+    text-align: center;
+
+}
+
+#Horarios {
+
+    width: 40%;
+    margin: 10px;
+    text-align: center;
+
+}
+
+#Contacto {
+
+    width: 40%;
+    margin: 10px;
+    text-align: center;
+
+}
+
+.red {
+
+    color: rgba(0, 110, 255, 0.777);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serifq;
+
+}
+
+#insta {
+
+    width: 30px;
+    height: 30px;
+
+}
+
+#face {
+
+    width: 30px;
+    height: 30px;
+
+}
+
+#x {
+
+    width: 30px;
+    height: 30px;
+
+}
